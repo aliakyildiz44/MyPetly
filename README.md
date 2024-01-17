@@ -1,6 +1,7 @@
 # MyPetly
  Social media app for pets swiftUI
 
+
  Home Screen
 ![Simulator Screenshot - iPhone 15 Pro - 2023-12-26 at 16 29 57](https://github.com/aliakyildiz44/MyPetly/assets/92430624/949c89ab-0f27-4662-b2f6-cc0ffad7f182)
 
